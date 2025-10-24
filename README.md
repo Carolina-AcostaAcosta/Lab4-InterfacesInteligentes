@@ -29,11 +29,3 @@
 7. Partiendo de los ejercicios anteriores, implementa una mecánica en la que cada 100 puntos el jugador obtenga una recompensa que se muestre en la UI.
 
 ![Imagen del ejercicio](Lab4-images/Ejercicio-7.gif)
-
-8. Genera una escena que incluya elementos que se ajusten a la escena del prototipo y alguna de las mecánicas anteriores.
-
-![Imagen del ejercicio](Lab4-images/Ejercicio-8.gif)
-
-9. Implementa el ejercicio 3 siendo el cubo un objeto físico.
-
-![Imagen del ejercicio](Lab4-images/Ejercicio-9.gif)
